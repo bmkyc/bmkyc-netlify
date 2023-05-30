@@ -11,4 +11,4 @@ tags:
 ---
 ![flag](/img/bmkyc-flag.png)
 
-event description
+Docktails is a casual gathering for Yacht Club members on the deck of the Yacht Club.  The Club provides complimentary beverages (tips welcome), and members bring an appetizer to share.
