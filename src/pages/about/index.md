@@ -6,7 +6,7 @@ title: About BMKYC
 ### 2023 Board of Directors and Club Officials
 
 | Position | Name | Email
-| ---|---|---
+|:---|:---|:---
 | Commodore | George Kuniholm |
 | Vice Commodore | Amy Khan |
 | Rear Commodore | Asif Ghias |
