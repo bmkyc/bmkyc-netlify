@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Bel Marin Keys Yacht Club
-image: /img/home-jumbotron.jpg
+image: /img/flags.png
 heading: Bel Marin Keys Yacht Club
 subheading: Serving Bel Marin Keys since 1966
 mainpitch:
@@ -12,16 +12,16 @@ description: >-
   description of BMKYC.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/bmkyc-flag.png
       text: >
         first blurb text.
-    - image: /img/coffee-gear.png
+    - image: /img/bmkyc-flag.png
       text: >
         2nd blurb text.
-    - image: /img/tutorials.png
+    - image: /img/bmkyc-flag.png
       text: >
         3rd blurb text.
-    - image: /img/meeting-space.png
+    - image: /img/bmkyc-flag.png
       text: >
         4th blurb text.
   heading: 2nd heading
@@ -33,11 +33,11 @@ main:
     main description.
   image1:
     alt: alt text for image1
-    image: /img/products-grid3.jpg
+    image: /img/flags.png
   image2:
     alt: alt text for image2
-    image: /img/products-grid2.jpg
+    image: /img/flags.png
   image3:
     alt: alt text for image3
-    image: /img/products-grid1.jpg
+    image: /img/flags.png
 ---
