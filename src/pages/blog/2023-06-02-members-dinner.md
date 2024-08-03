@@ -1,11 +1,13 @@
 ---
 templateKey: blog-post
-title: Docktails
-date: 2024-08-17T01:00:00.000Z
-description: Friday, August 16, 2024   6:00 pm   Docktails
+title: Scavenger Hunt
+date: 2024-08-25T01:00:00.000Z
+description: |-
+  Saturday, August 24, 2024   
+  Time TBD
 featuredpost: true
 featuredimage: /img/bmkyc-flag.png
 tags:
-  - docktails
+  - event
 ---
 ![flag](/img/bmkyc-flag.png)
