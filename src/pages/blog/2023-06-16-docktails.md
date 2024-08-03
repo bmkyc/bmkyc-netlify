@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
 title: Docktails
-date: 2023-06-26T12:00:00.000Z
+date: 2024-08-17T01:00:00.000Z
+description: .
 featuredpost: false
 featuredimage: /img/bmkyc-flag.png
-description: 6:00 pm.
 tags:
   - docktails
   - event
